@@ -17,6 +17,7 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#donate">Support us on Patreon!</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
@@ -74,6 +75,12 @@ Contributions are what make the open source community an amazing place to learn,
 
 We look forward to reviewing your contributions.
 
+<!-- DONATE -->
+## Donate
+
+Help us making donnations to our patreon: (https://patreon.com/user?u=56529246&utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link)
+
+With your help, we can continue developing TeslaOS!
 
 
 
