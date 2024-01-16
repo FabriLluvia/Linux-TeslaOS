@@ -17,7 +17,6 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#Donate">Support us on Patreon</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
@@ -73,15 +72,13 @@ Contributions are what make the open source community an amazing place to learn,
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-We look forward to reviewing your contributions.
-
-<!-- Donate -->
-## Donate
-
-Support us on Patreon!
+You can also colaborate donating us to Patreon! 
 Help us making donnations to our patreon: (https://patreon.com/user?u=56529246&utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link)
 
-With your help, we can continue developing TeslaOS!
+
+
+We look forward to reviewing your contributions.
+
 
 
 
