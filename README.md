@@ -14,7 +14,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#updates">Updates</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -53,10 +53,13 @@ _For more examples, please refer to the Documentation at (https://immense-canida
 
 
 
-<!-- ROADMAP -->
-## Roadmap
+<!-- Updates -->
+## Updates
 
 See the [open issues](https://gitlab.com/fabrilluvia/TeslaOS/-/issues) for a list of proposed features (and known issues).
+
+Also: BIG Update!
+Launching date is gonna be 19/01/2024, at format DAY/MONTH/YEAR
 
 
 
