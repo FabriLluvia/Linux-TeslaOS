@@ -47,7 +47,7 @@ To get a local copy up and running follow these simple steps.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+We're working on it!!
 
 _For more examples, please refer to the Documentation at (https://immense-canidae-164.notion.site/TeslaOS-Wiki-5b044f160ce74139bf4cd29f81ae7731?pvs=4)_
 
@@ -118,10 +118,10 @@ Project Link: [https://gitlab.com/fabrilluvia/TeslaOS]
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
 [forks-url]: https://github.com/github_username/repo/network/members
 [stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo/stargazers
+[stars-url]: https://github.com/FabriLluvia/repo/stargazers
 [issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
 [issues-url]: https://github.com/github_username/repo/issues
 [license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
 [license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/github_username
+[linkedin-url]: https://co.linkedin.com/in/fabrizzio-mendoza-670099263?trk=public_profile_samename-profile
