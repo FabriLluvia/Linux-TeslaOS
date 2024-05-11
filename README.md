@@ -14,6 +14,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#feedback">Feedback</a></li>
     <li><a href="#updates">Updates</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -49,7 +50,9 @@ To get a local copy up and running follow these simple steps.
 
 We're working on it!!
 
-_For more examples, please refer to the Documentation at (https://immense-canidae-164.notion.site/TeslaOS-Wiki-5b044f160ce74139bf4cd29f81ae7731?pvs=4)_
+## Feedback
+
+This is the form to fill to give feedback: https://forms.gle/VRVUJ2GePC5YFnwR6
 
 
 
