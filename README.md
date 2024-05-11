@@ -52,7 +52,7 @@ We're working on it!!
 
 ## Feedback
 
-We also have a form to fill to give [feedback](https://forms.gle/VRVUJ2GePC5YFnwR6)
+We also have a form to fill to give [feedback]
 
 
 
@@ -99,8 +99,8 @@ Distributed under the Apache License Version 2.0. See `LICENSE` for more informa
 
 FabriLluvia - fmu.elmundodelosjuegos@gmail.com
 
-[Project Link](https://gitlab.com/fabrilluvia/TeslaOS)
 
+[Project Link]
 
 
 <!-- ACKNOWLEDGEMENTS -->
@@ -128,3 +128,5 @@ FabriLluvia - fmu.elmundodelosjuegos@gmail.com
 [license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://co.linkedin.com/in/fabrizzio-mendoza-670099263?trk=public_profile_samename-profile
+[feedback]: https://forms.gle/VRVUJ2GePC5YFnwR6
+[Project Link](https://gitlab.com/fabrilluvia/TeslaOS)
