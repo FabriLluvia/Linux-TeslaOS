@@ -99,7 +99,7 @@ Distributed under the Apache License Version 2.0. See `LICENSE` for more informa
 
 FabriLluvia - fmu.elmundodelosjuegos@gmail.com
 
-Project Link: [https://gitlab.com/fabrilluvia/TeslaOS]
+Project Link: https://gitlab.com/fabrilluvia/TeslaOS
 
 
 
