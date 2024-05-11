@@ -52,7 +52,7 @@ We're working on it!!
 
 ## Feedback
 
-This is the form to fill to give feedback: https://forms.gle/VRVUJ2GePC5YFnwR6
+We also have a form to fill to give [feedback](https://forms.gle/VRVUJ2GePC5YFnwR6)
 
 
 
@@ -78,7 +78,7 @@ Contributions are what make the open source community an amazing place to learn,
 5. Open a Pull Request
 
 You can also colaborate donating us to Patreon! 
-Help us making donnations to our patreon: [Patreon](https://patreon.com/user?u=56529246&utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link)
+Help us making donnations to our [patreon](https://patreon.com/user?u=56529246&utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link)
 
 
 
@@ -99,7 +99,7 @@ Distributed under the Apache License Version 2.0. See `LICENSE` for more informa
 
 FabriLluvia - fmu.elmundodelosjuegos@gmail.com
 
-Project Link: https://gitlab.com/fabrilluvia/TeslaOS
+[Project Link](https://gitlab.com/fabrilluvia/TeslaOS)
 
 
 
