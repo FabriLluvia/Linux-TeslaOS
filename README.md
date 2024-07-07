@@ -1,4 +1,4 @@
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/309a95661bef4dc6b7ed9d1a0a4a06e2)](https://app.codacy.com/gh/FabriLluvia/TeslaOS/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a73eda5c5c164bb0bb46f5c6d4470f82)](https://app.codacy.com/gh/FabriLluvia/Linux-TeslaOS/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
 <details open="open">
 <summary>Table of Contents</summary>
