@@ -1,20 +1,25 @@
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/a73eda5c5c164bb0bb46f5c6d4470f82)](https://app.codacy.com/gh/FabriLluvia/Linux-TeslaOS/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
 <details open="open">
-<summary>Table of Contents</summary>
-
-- [About The Project](#about-the-project)
-- [Getting Started](#getting-started)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Feedback](#feedback)
-- [Updates](#updates)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
-
+  <summary>Table of Contents</summary>
+  <ul>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#feedback">Feedback</a></li>
+    <li><a href="#updates">Updates</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+  </ul>
 </details>
+
 
 
 
