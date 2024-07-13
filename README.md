@@ -55,7 +55,7 @@ We also have a form to fill to give [feedback](https://forms.gle/VRVUJ2GePC5YFnw
 See the [open issues](https://gitlab.com/fabrilluvia/TeslaOS/-/issues) for a list of proposed features (and known issues).
 
 Also: BIG Update!
-Launching date is gonna be 19/01/2024, at format DAY/MONTH/YEAR
+Launching date of the first version gonna be 29/February/2024, in format DAY/MONTH/YEAR
 
 
 
